@@ -48,3 +48,19 @@ even set it as their device wallpaper.
 - Flutter framework with MVC and Provider architecture
 
 ## Project Output :
+
+![IMG-20230831-WA0005](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/9f764909-4d42-437b-b324-93e0edf40747)
+![IMG-20230831-WA0004](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/074c2c60-8b66-40ac-9505-c8e96fd83e83)
+![IMG-20230831-WA0003](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/1633ff0d-2eb3-4070-802d-d0ac4d6f0f7e)
+![IMG-20230831-WA0007](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/5765a716-5d26-4d7e-9004-5108ab353b75)
+![IMG-20230831-WA0006](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/24e8d78b-3fe8-41a3-8729-3ec173bd5a87)
+![IMG-20230831-WA0010](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/7f385341-8161-4522-90d0-a30dea7df7a1)
+![IMG-20230831-WA0009](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/bc316dfc-304d-4c4f-9876-927a46e12605)
+![IMG-20230831-WA0008](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/59692102-6063-463b-b3f4-6fdbd529546d)
+![IMG-20230831-WA0011](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/2bda491d-f3ad-4314-8d9c-ef78093aa026)
+![IMG-20230831-WA0012](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/ce94c421-afe1-4f05-9ce2-fd0f7d7d4f56)
+![IMG-20230831-WA0013](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/603d3c23-1577-43df-a654-cf3eb3c9cba7)
+![IMG-20230831-WA0014](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/a7fdd916-0454-478c-8936-c3bcf85a5d01)
+![IMG-20230831-WA0015](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/293aec26-57d0-479a-9fa3-c02b1691b943)
+![IMG-20230831-WA0016](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/aa53b4b7-cce7-4396-af12-32ca9c7bbe95)
+
