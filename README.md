@@ -49,7 +49,6 @@ even set it as their device wallpaper.
 
 ## Project Output :
 
-![IMG-20230831-WA0005](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/9f764909-4d42-437b-b324-93e0edf40747)
 ![IMG-20230831-WA0004](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/074c2c60-8b66-40ac-9505-c8e96fd83e83)
 ![IMG-20230831-WA0003](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/1633ff0d-2eb3-4070-802d-d0ac4d6f0f7e)
 ![IMG-20230831-WA0007](https://github.com/amisharamani/quotes_app_flutter_database/assets/130687844/5765a716-5d26-4d7e-9004-5108ab353b75)
